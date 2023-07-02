@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **to create full stack applications**
 
-- ☁️ I've keen interest in **Web Dpp Development**
+- ☁️ I've keen interest in **Web App Development**
 
 - 💬 Ask me about **react, java, sprint boot**
 
