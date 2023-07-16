@@ -20,7 +20,7 @@
 
 - ☁️ I've keen interest in **Web App Development**
 
-- 💬 Ask me about **react, java, sprint boot**
+- 💬 Ask me about **react, java, spring boot**
 
 - 📫 Feel free to reach me out **hmackowski@gmail.com**
 
