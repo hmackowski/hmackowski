@@ -13,7 +13,7 @@
 </div>
 
 
-<!--Intro start-->
+<!--Intro start
 - 🔭 I’m currently working with **React, HTML, CSS, Javascript, Java, and Spring Boot on personal projects**
 
 - 🌱 I’m currently learning **to create full stack applications**
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **react, java, spring boot**
 
-<!--Intro end-->
+Intro end-->
 
 
 
