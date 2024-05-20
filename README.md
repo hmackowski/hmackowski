@@ -53,7 +53,7 @@ Intro end-->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,java,spring,javascript,py,idea,docker,github,html,css,ts,jquery,bootstrap,vscode,visualstudio,mysql,cs,postman,linux&perline=19" />
+    <img src="https://skillicons.dev/icons?i=react,angular,java,spring,javascript,py,idea,docker,github,html,css,ts,jquery,bootstrap,vscode,visualstudio,mysql,cs,postman,linux&perline=19" />
   </a>
 </p>
 
