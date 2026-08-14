@@ -34,7 +34,7 @@ Intro end-->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,dotnet,typescript,azure,webstorm,rider,cs,java,spring,javascript,react,py,idea,docker,github,html,css,jquery,bootstrap,vscode,idea,visualstudio,mysql,postman,linux,unity,arduino&perline=19" />
+    <img src="https://skillicons.dev/icons?i=angular,dotnet,typescript,azure,webstorm,rider,cs,java,spring,javascript,react,py,idea,docker,github,html,css,jquery,bootstrap,vscode,visualstudio,mysql,postman,linux,unity,arduino&perline=19" />
   </a>
 </p>
 
