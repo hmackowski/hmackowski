@@ -15,11 +15,6 @@
   <a href="https://www.linkedin.com/in/hmackowski/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
 </p>
 
-<!-- Profile visit count -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=hmackowski&icon=3&color=6" alt="Profile views" /></a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -35,9 +30,7 @@
 
 **Core Stack**
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,dotnet,cs&theme=dark" />
-  <img src="./assets/sqlserver.svg" height="48" alt="SQL Server" />
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,dotnet,cs,mysql,azure&theme=dark" />
 </p>
 
 **Frontend**
@@ -52,7 +45,7 @@
 
 **Previously worked with**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,py,mysql,jquery,unity,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,py,jquery,unity,arduino&theme=dark" />
 </p>
 
 ---
