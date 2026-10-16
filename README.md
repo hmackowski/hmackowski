@@ -28,6 +28,8 @@
 
 ### 🚀 Featured Project
 
+<a href="https://flipleo.com"><img src="https://www.flipleo.com/assets/flipleo.png" height="72" alt="Flipleo logo" /></a>
+
 **[Flipleo](https://flipleo.com)**: a full stack web app for resellers and collectors, deployed on Azure.
 
 - 💰 **Flip tracking:** log buys and sales, with real-time profit and ROI on every item
