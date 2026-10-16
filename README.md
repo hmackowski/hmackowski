@@ -10,10 +10,14 @@
   </a>
 </p>
 
-<!-- Quick badges -->
+<!-- Connect -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/hmackowski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hmackowski&style=for-the-badge&color=1f6feb&label=Profile+Views" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/hmackowski/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+</p>
+
+<!-- Profile visit count -->
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=hmackowski&icon=3&color=6" alt="Profile views" /></a>
 </p>
 
 ---
@@ -32,7 +36,7 @@
 **Core Stack**
 <p>
   <img src="https://skillicons.dev/icons?i=angular,ts,dotnet,cs&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
+  <img src="./assets/sqlserver.svg" height="48" alt="SQL Server" />
   <img src="https://skillicons.dev/icons?i=azure&theme=dark" />
 </p>
 
