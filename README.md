@@ -6,7 +6,7 @@
 <!-- Animated typing line -->
 <p align="center">
   <a href="https://github.com/hmackowski">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=.NET+%2B+Angular+%2B+Azure;Java+%2B+Spring+Boot+%2B+React;Building+full+stack+apps+end+to+end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Angular+%2B+TypeScript+on+the+front+end;.NET+%2F+C%23+APIs+on+the+back+end;SQL+Server+underneath+it+all" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,38 +20,35 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Building full stack applications across **.NET / C#**, **Angular**, **TypeScript**, and **Azure**
-- ☕ Side projects in **Java, Spring Boot, and React** — check out [Mobuli](https://github.com/hmackowski/Mobuli) and its [backend](https://github.com/hmackowski/Mobuli-Backend)
+- 🔭 Full stack engineer building with **Angular**, **.NET / C#**, and **SQL Server**
+- 🧩 I work across the whole stack — UI, REST APIs, and database design
 - 🌱 Currently learning: _add what you're learning here_
-- 💬 Ask me about **APIs, front-end architecture, and Spring Boot**
+- 💬 Ask me about **Angular, ASP.NET Core APIs, and SQL Server**
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Core Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,dotnet,cs&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" />
+</p>
+
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,bootstrap,jquery&theme=dark" />
-</p>
-
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,java,spring,py,mysql&theme=dark" />
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,linux,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 </p>
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,webstorm,idea,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,webstorm,postman,git,github,docker&theme=dark" />
 </p>
 
-**Also tinkered with**
+**Previously worked with**
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,py,mysql,jquery,unity,arduino&theme=dark" />
 </p>
 
 ---
