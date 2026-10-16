@@ -21,7 +21,7 @@
 
 - 🔭 Full stack engineer building with **Angular**, **.NET / C#**, and **SQL Server**
 - 🧩 I work across the whole stack — UI, REST APIs, and database design
-- 🌱 Currently learning: _add what you're learning here_
+- 🎓 Pursuing a **Master of Science in Computer Science** at **Georgia Tech**
 - 💬 Ask me about **Angular, ASP.NET Core APIs, and SQL Server**
 
 ---
