@@ -28,7 +28,12 @@
 
 ### 🚀 Featured Project
 
-**[Flipleo](https://flipleo.com)**: a platform for resellers to find, track, and profit from flips. It logs buys and sales, tracks collections, and shows real-time profit and ROI on every item, from electronics to sneakers to collectibles.
+**[Flipleo](https://flipleo.com)**: a full stack web app for resellers and collectors, deployed on Azure.
+
+- 💰 **Flip tracking:** log buys and sales, with real-time profit and ROI on every item
+- 🎮 **Collections:** track what you own and what you still need, with completion progress, total worth vs. amount paid, and a virtual shelf view of your items
+- 📦 Works for anything: electronics, sneakers, retro games, collectibles
+
 
 <p>
   <a href="https://flipleo.com"><img src="https://img.shields.io/badge/Visit-flipleo.com-0F8A8A?style=for-the-badge" alt="Visit Flipleo" /></a>
